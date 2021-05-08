@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @divyanshu-didwania
-- 👀 I’m interested in learning coding and ithub in detail.
+- 👀 I’m interested in learning coding and github in detail.
 - 🌱 I’m currently learning nothing iguess haha!
 - 💞️ I’m looking for someone who can give me good resources to learn above mentioned..
-- 📫 How to reach me? texte me on instagram @divyanshuuuu._ OR @elclvssic
+- 📫 How to reach me? text me on instagram @divyanshuuuu._ OR @elclvssic
 
 <!---
 divyanshu-didwania/divyanshu-didwania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
